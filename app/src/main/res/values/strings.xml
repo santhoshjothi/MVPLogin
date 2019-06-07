@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVPLogin</string>
+    <string name="signUp">SignUp</string>
+    <string name="login">Login</string>
+    <string name="uName">UserName</string>
+    <string name="passd">Password</string>
+    <string name="already_have_a_account">Already have a account?</string>
+
+
+</resources>
